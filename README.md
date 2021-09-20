@@ -7,4 +7,11 @@ Run main_EPINet.py. See examples in EPINet_train.sh
 Run main_FSNet.py. See examples in FSNet_train.sh
 
 ## Datasets 
-Datasets used for training will be made availabe soon.
+DDFF dataset can be downloaded [here](https://www.google.com/search?q=DDFF+dataset&rlz=1C1ONGR_zh-CNUS967US967&oq=DDFF+dataset&aqs=chrome..69i57j69i60.1748j0j4&sourceid=chrome&ie=UTF-8).
+
+HCI dataset can be downloaded [here](https://lightfield-analysis.uni-konstanz.de/).
+
+CVIA dataset can be  downloaaded  [here](https://drive.google.com/file/d/1mdojEAlbuKGig0o63wKryb9tJiYiOSur/view?usp=sharing).
+
+Nikon Camera dataset can be downloaded [here](https://www.dropbox.com/s/x5g86vmderkerb3/Nikon.zip?dl=0).
+
